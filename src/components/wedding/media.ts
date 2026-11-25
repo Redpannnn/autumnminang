@@ -1,18 +1,18 @@
 export const MEDIA = {
   cover:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxrmf36kk8oire/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/COVER%20AUTUMN%20MINANG.mp4",
   welcome:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxr0xiakkufigj/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/WELCOME%20AUTUMN%20MINANG.mp4",
   couple:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxr4pfh1whtoqi/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/COUPLE%20AUTUMN%20MINANG.mp4",
   event:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxr88z4xh2tzif/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/EVENT%20AUTUMN%20MINANG.mp4",
   wallpaper:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxrfn2qwzg8ain/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/WALLPAPER%20AUTUMN%20MINANG.mp4",
   gift:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxrbyglyfqwgps/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/GIFT%20AUTUMN%20MINANG.mp4",
   closing:
-    "https://imglinkv-3.vercel.app/api/images/cmwqxrj10zgkm6dh8/file",
+    "https://ik.imagekit.io/au8q7zdvt/AUTUMN%20MINANG/GIFT%20AUTUMN%20MINANG.mp4",
 } as const;
 
 export const GALLERY_IMAGES = [
